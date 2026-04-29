@@ -4,7 +4,7 @@ const Footer = () => {
             <div className="max-w-7xl mx-auto px-6">
                 <div className="grid grid-cols-1 md:grid-cols-12 gap-12">
                     
-                    {/* Logo & Description */}
+                 
                     <div className="md:col-span-5">
                         <div className="flex items-center gap-3 mb-6">
                             
@@ -26,7 +26,6 @@ const Footer = () => {
                         </div> */}
                     </div>
 
-                    {/* Quick Links */}
                     <div className="md:col-span-2">
                         <h3 className="text-red-400 font-semibold mb-6 text-lg">Product</h3>
                         <ul className="space-y-4 text-zinc-400">
@@ -59,7 +58,6 @@ const Footer = () => {
                     </div>
                 </div>
 
-                {/* Bottom Bar */}
                 <div className="mt-16 pt-8 border-t border-zinc-800 flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-zinc-500">
                     <div>
                         © {new Date().getFullYear()} AI Hub. All rights reserved.

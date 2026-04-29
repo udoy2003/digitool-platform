@@ -2,11 +2,11 @@ import { useState } from "react";
 import Navbar from "./components/Navbar";
 import Banner from "./components/Banner";
 import Footer from "./components/Footer";
-import Workflow from "./components/Workflow";
-import StepSection from "./components/StepSection";
 import ProductCart from "./components/ProductCart";
-import Stats from "./components/Stats";
+import StepSection from "./components/StepSection";
 import Pricing from "./components/Pricing";
+import Workflow from "./components/Workflow";
+import Stats from "./components/Stats";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
@@ -17,16 +17,13 @@ function App() {
     <>
       <Navbar cartCount={cartCount} />
       <Banner />
-
       <Stats />
       <ProductCart setCartCount={setCartCount} />
-     <StepSection />
+      <StepSection />
       <Pricing />
       <Workflow />
-      
       <Footer />
       <ToastContainer position="top-right" autoClose={2000} />
-     
     </>
   );
 }

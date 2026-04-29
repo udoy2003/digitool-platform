@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Resume Builder Pro",
+    "description": "Create professional resumes with modern templates and ATS-friendly formatting.",
+    "price": 19,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["100+ templates", "ATS optimization", "Export to PDF"],
+    "icon": "FileText"
+  },
+  {
+    "id": 2,
+    "name": "Portfolio Website Kit",
+    "description": "Launch a stunning personal portfolio with ready-made components.",
+    "price": 49,
+    "period": "one-time",
+    "tag": "best seller",
+    "tagType": "best",
+    "features": ["Responsive design", "SEO optimized", "Easy customization"],
+    "icon": "Globe"
+  },
+  {
+    "id": 3,
+    "name": "Job Tracker",
+    "description": "Track job applications and manage your hiring pipeline efficiently.",
+    "price": 9,
+    "period": "monthly",
+    "tag": "new",
+    "tagType": "new",
+    "features": ["Application tracking", "Reminder alerts", "Analytics dashboard"],
+    "icon": "Briefcase"
+  },
+  {
+    "id": 4,
+    "name": "Interview Prep AI",
+    "description": "Practice interviews with AI-powered mock questions and feedback.",
+    "price": 29,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["Mock interviews", "Instant feedback", "Industry-specific questions"],
+    "icon": "MessageCircle"
+  },
+  {
+    "id": 5,
+    "name": "Cover Letter Generator",
+    "description": "Generate tailored cover letters for any job in seconds.",
+    "price": 15,
+    "period": "monthly",
+    "tag": "best seller",
+    "tagType": "best",
+    "features": ["AI writing assistant", "Custom templates", "Download as PDF"],
+    "icon": "Edit"
+  },
+  {
+    "id": 6,
+    "name": "LinkedIn Optimizer",
+    "description": "Improve your LinkedIn profile visibility and attract recruiters.",
+    "price": 25,
+    "period": "monthly",
+    "tag": "new",
+    "tagType": "new",
+    "features": ["Profile analysis", "Keyword suggestions", "SEO tips"],
+    "icon": "Linkedin"
+  },
+  {
+    "id": 7,
+    "name": "Freelancer Starter Pack",
+    "description": "Everything you need to start freelancing and land your first client.",
+    "price": 79,
+    "period": "one-time",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["Proposal templates", "Client scripts", "Pricing guide"],
+    "icon": "DollarSign"
+  },
+  {
+    "id": 8,
+    "name": "Career Coaching Plan",
+    "description": "Personalized career coaching sessions to guide your growth.",
+    "price": 99,
+    "period": "yearly",
+    "tag": "best seller",
+    "tagType": "best",
+    "features": ["1-on-1 sessions", "Career roadmap", "Goal tracking"],
+    "icon": "User"
+  }
+]

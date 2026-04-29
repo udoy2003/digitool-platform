@@ -7,7 +7,7 @@ const StepSection = () => {
     return (
        <div >
          <div className=" py-16 px-4 text-center">
-            <h1>Get Started In 3 Steps</h1>
+          
              
             <h2 className="text-3xl md:text-4xl font-bold text-base-content">
                 Get Started In 3 Steps

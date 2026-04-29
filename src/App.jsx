@@ -19,7 +19,7 @@ function App() {
       <Banner />
 
       <Stats />
-      <ProductCart />
+      <ProductCart setCartCount={setCartCount} />
      <StepSection />
       <Pricing />
       <Workflow />

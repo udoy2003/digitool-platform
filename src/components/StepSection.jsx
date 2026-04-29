@@ -8,12 +8,11 @@ const StepSection = () => {
        <div >
          <div className=" py-16 px-4 text-center">
             <h1>Get Started In 3 Steps</h1>
-              {/* Title */}
+             
             <h2 className="text-3xl md:text-4xl font-bold text-base-content">
                 Get Started In 3 Steps
             </h2>
 
-            {/* Subtitle */}
             <p className="mt-3 text-sm text-gray-500">
                 Start using premium digital tools in minutes, not hours.
             </p>
@@ -25,7 +24,7 @@ const StepSection = () => {
 
                     <div className="card-body items-center text-center">
                         <div className="w-16 h-16 rounded-full bg-purple-100 flex items-center justify-center mb-4">
-                            {/* icon here */}
+                        
                             <img src={userimg} alt="" className="w-7 h-7" />
                         </div>
 
@@ -45,7 +44,7 @@ const StepSection = () => {
 
                     <div className="card-body items-center text-center">
                         <div className="w-16 h-16 rounded-full bg-purple-100 flex items-center justify-center mb-4">
-                            {/* icon here */}
+                          
                             <img src={packageimg} alt="" className="w-7 h-7" />
                         </div>
 
@@ -65,7 +64,7 @@ const StepSection = () => {
 
                     <div className="card-body items-center text-center">
                         <div className="w-16 h-16 rounded-full bg-purple-100 flex items-center justify-center mb-4">
-                            {/* icon here */}
+                          
                             <img src={rocketimg} alt="" className="w-7 h-7" />
                         </div>
 
